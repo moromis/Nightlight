@@ -5,6 +5,9 @@
 ### To use:
 <br/>
 
+3 easy steps:
+<br/>
+
 1. Download the repository.
 
 <br/>
@@ -13,19 +16,14 @@
 ```javascript
 <!-- nightlight -->
 <script src="nightlight.js"></script>
-```
 
-<br/>
-
-3. Put the following code at the bottom of all your html pages:
-```javascript 
 <!-- nightlight listener -->
 <script src="nightlight_listener.js"></script>
 ```
 
 <br/>
 
-4. Make a button or some sort of clickable element somewhere in your code for each page that 
+3. Make a button or some sort of clickable element somewhere in your code for each page that 
 you want to support Nightlight functionality, and give it:
 ```html
 id=nightlight
