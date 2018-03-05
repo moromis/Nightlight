@@ -13,7 +13,7 @@
 <br/>
 
 2. Put the following code in the headers of the html pages you want to support lights-off -on functionality:
-```javascript
+```html
 <!-- nightlight -->
 <script src="nightlight.js"></script>
 
