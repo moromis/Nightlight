@@ -38,5 +38,5 @@ And you're done! Wasn't that easy?
 ### Where it's being used:
 <br/>
 
-You can see Nightlight in use at my personal projects website, [moromis.com](https://moromis.com)
+You can see Nightlight in use at my personal projects website, [moromis.com](http://moromis.com/)
 
