@@ -18,7 +18,7 @@
 <script src="nightlight.js"></script>
 
 <!-- nightlight listener -->
-<script src="nightlight_listener.js"></script>
+<script defer src="nightlight_listener.js"></script>
 ```
 
 <br/>
