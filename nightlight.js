@@ -3,11 +3,9 @@ var style = document.createElement('style');
 
 //set the background and text colors based on the cookie
 if(getCookie('nightlight') === "dark"){
-    console.log("dark mode");
     style.innerHTML = "body { background-color: #222222; color: #ffffff; }";
     document.head.appendChild(style);
 }else{
-    console.log("light mode");
     style.innerHTML = "body { background-color: #ffffff; color: #000000; }";
     document.head.appendChild(style);
 }
